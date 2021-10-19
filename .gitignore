@@ -1,0 +1,10 @@
+.vscode/
+*.pyc
+venv
+.ipynb_checkpoints
+/.idea/
+/.vs/
+/.ipynb_checkpoints/
+/.vscode/
+.idea/misc.xml
+data/
